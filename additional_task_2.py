@@ -1,4 +1,3 @@
-
 def digit_root(num):
 
     if num > 10**7:
